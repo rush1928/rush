@@ -4,7 +4,7 @@
 
 Diller:  JavaScript / Python / TypeScript / HTML / CSS / PHP / GO
 
-- 🔭 Discord: rush8x
+- 🔭 Discord: innaccisible & 86dx
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rushwl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/1232440176031174686)  
